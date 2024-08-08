@@ -15,7 +15,7 @@ The business task of the "Danny's Diner" case study is to analyze sales and cust
 
 ## 2. Database Schema
 #### ER Diagram
-
+![plot](https://github.com/edHuang11/sqlproject/blob/main/case1/Diner%20Diagram.drawio.png)
 #### Entities and Attributes
 
 ##### `sales` Table
